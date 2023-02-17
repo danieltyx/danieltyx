@@ -8,7 +8,7 @@
 
 ## 🔭 I'm currently working on
 - Startups: FutureX / Dino (Data & Algorithm)
-- Travel App (Flutter)
+- Travel App (Full Stack)
 - SuppPro (Firebase, flutter, RESTAPIs) 
 
 
