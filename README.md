@@ -6,16 +6,6 @@
 ![Daniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=danieltyx&show_icons=true&theme=radical&hide=prs,contribs)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=danieltyx&hide_progress=true&theme=radical&langs_count=10)](https://github.com/danieltyx/github-readme-stats)
 
-## 🔭 I'm currently working on
-- Startups: FutureX / Dino (Data & Algorithm)
-- Travel App (Full Stack)
-- SuppPro (Firebase, flutter, RESTAPIs) 
-
-
-## 🌱 I'm currently learning
-- ReactJS
-- Web3 Basics
-- Solidity
 
 ## 💼 Technical Skills
 
